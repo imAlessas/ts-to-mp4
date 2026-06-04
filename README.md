@@ -25,9 +25,14 @@ Converts all `.ts` files in the `source` folder to MP4 in a `converted` folder. 
    ```
 
 3. Get the heavy `ffmpeg` executable (not in the repo):
-   - Go to the **Releases** page:  
-     `https://github.com/imAlessas/ts-to-mp4/releases/tag/ffmpeg`
+   - Go to the **Releases** page [`https://github.com/imAlessas/ts-to-mp4/releases/tag/ffmpeg`](https://github.com/imAlessas/ts-to-mp4/releases/tag/ffmpeg)
    - Download the `ffmpeg.exe` asset from the latest release.
    - Place `ffmpeg.exe` in the **same folder as the script**.  
 
 4. Put your `.ts` files in `../source` relative to the script, then double-click on `convert.bat` file: to start the conversion
+
+---
+
+<div align="right">
+    <a href="https://github.com/imAlessas"> <samp> @imAlessas </samp> </a>
+</div>
